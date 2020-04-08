@@ -1,0 +1,1711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14afcdaf-3cd0-4e7d-ad51-f6c43cdadadd" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/lawyer-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/lawyer-lover-main/target/" />
+    <ignored path="$PROJECT_DIR$/lawer-lover-common/target/" />
+    <ignored path="$PROJECT_DIR$/lawyer-common/target/" />
+    <ignored path="$PROJECT_DIR$/lawyer-lover-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/lawyer-lover-zuul/target/" />
+    <ignored path="$PROJECT_DIR$/lawyer-lover-cosumertwo/target/" />
+    <ignored path="$PROJECT_DIR$/lawyer-lover-eureka/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-24045633">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="41" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="5" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="3" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="43" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="80" />
+          <entry key="java" value="16600" />
+          <entry key="txt" value="6" />
+          <entry key="xml" value="1311" />
+          <entry key="yml" value="1171" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="16600" />
+          <entry key="PLAIN_TEXT" value="86" />
+          <entry key="XML" value="1311" />
+          <entry key="YAML" value="1171" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ApplicationContext" value="1" />
+          <entry key="class" value="31" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="524" />
+          <entry key="json" value="2" />
+          <entry key="md" value="2" />
+          <entry key="xml" value="72" />
+          <entry key="yml" value="51" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="31" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="524" />
+          <entry key="JSON" value="2" />
+          <entry key="Markdown" value="2" />
+          <entry key="UML" value="1" />
+          <entry key="XML" value="72" />
+          <entry key="YAML" value="51" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="lawyer-lover" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lawyer-lover-zuul/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1102">
+              <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/config/CorsConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/config/ConfigProperty.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/config/FeignConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/executor/ThreadPertaskExecutorStarter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lawyer-lover-zuul/src/main/java/com/changwu/fillter/WebManagerFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="method#getIpAddr#0;class#WebManagerFilter#0" />
+                <element signature="method#resultError#0;class#WebManagerFilter#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lawyer-lover-main/src/main/java/com/changwu/config/FeignConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lawyer-lover-eureka/src/main/java/com/changwu/EurekaApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/controller/AnalyserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/service/AnalyserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="754">
+              <caret line="37" column="25" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lawyer-lover-eureka/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/mainClient/QuestionClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lawyer-lover-consumer/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1334">
+              <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lawyer-lover-main/src/main/java/com/changwu/doc/Crime.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lawyer-lover-main/src/main/java/com/changwu/doc/Question.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lawyer-lover-eureka/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lawyer-lover-zuul/src/main/java/com/changwu/ZuulApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#636#637#0" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.15.Final/netty-all-4.1.15.Final-sources.jar!/io/netty/channel/nio/NioEventLoop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15254">
+              <caret line="597" column="17" selection-start-line="597" selection-start-column="17" selection-end-line="597" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.15.Final/netty-all-4.1.15.Final.jar!/io/netty/channel/nio/NioEventLoop.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10759">
+              <caret line="422" column="17" selection-start-line="422" selection-start-column="17" selection-end-line="422" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.15.Final/netty-all-4.1.15.Final-sources.jar!/io/netty/channel/nio/AbstractNioChannel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lawyer-lover-main/src/main/java/com/changwu/controller/QuestionController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lawyer-lover-main/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lawyer-lover-main/src/main/java/com/changwu/service/QuestionService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.0.2.RELEASE/spring-cloud-netflix-zuul-2.0.2.RELEASE.jar!/org/springframework/cloud/netflix/zuul/EnableZuulProxy.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>termQuery</find>
+      <find>size</find>
+      <find>诈骗</find>
+      <find>crimeRepository</find>
+      <find>processSelectedKey</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lawyer-eureka" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/EEServer/spring-framework-master" value="PREVIEW" />
+        <entry key="D:/EEServer/spring-security" value="PREVIEW" />
+        <entry key="D:/EEServer/spring/spring-framework" value="PREVIEW" />
+        <entry key="D:/sm3/spring-framework-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lawyer-lover-cosumertwo/src/main/java/com/changwu/controller/QuestionController.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/controller/QuestionController.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-cosumertwo/src/main/java/com/changwu/ConsumerApp.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/doc/CrimeAnalyzed.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/repository/CaseDocRepository.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/service/CheckingService.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/dto/CheckDeferredTaskDto.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-cosumertwo/src/main/java/com/changwu/doc/CrimeAnalyzed.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-cosumertwo/src/main/java/com/changwu/repository/CaseRepository.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/executor/MyExecutor.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-cosumertwo/src/main/java/com/changwu/executor/ThreadPertaskExecutorStarter.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/executor/ThreadPerTaskExecutor2.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/thrift/test/MessageServiceImpl.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/dto/PyDeferredTaskDto.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/executor/ThriftClient.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/executor/PyTask.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/service/AnalyserService.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/executor/MySimHash.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/entity/CaseDoc.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/utils/ResultVOUtil.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-cosumertwo/src/main/java/com/changwu/entity/CaseDoc.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-cosumertwo/src/main/java/com/changwu/utils/ResultVOUtil.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-cosumertwo/src/main/java/com/changwu/executor/CheckTask.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/executor/CheckTask.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/executor/ThreadPertaskExecutorStarter.java" />
+        <option value="$PROJECT_DIR$/lawyer-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/lawyer-lover-cosumertwo/pom.xml" />
+        <option value="$PROJECT_DIR$/lawyer-lover-cosumertwo/src/main/java/com/changwu/executor/MySimHash.java" />
+        <option value="$PROJECT_DIR$/lawyer-eureka/src/main/java/com/changwu/EurekaApp.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-cosumertwo/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/config/FeignConfig.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-main/src/main/java/com/changwu/config/FeignConfig.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-main/src/main/java/com/changwu/MainApp.java" />
+        <option value="$PROJECT_DIR$/lawyer-eureka/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lawyer-lover-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/lawyer-lover-eureka/src/main/java/com/changwu/EurekaApp.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/controller/AnalyserController.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/ConsumerApp.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-eureka/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lawyer-lover-main/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lawyer-lover-zuul/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lawyer-lover-main/pom.xml" />
+        <option value="$PROJECT_DIR$/lawyer-lover-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/lawyer-lover-zuul/src/main/java/com/changwu/config/FeignConfig.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-zuul/src/main/java/com/changwu/ZuulApp.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/config/CorsConfig.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/lawyer-lover-zuul/src/main/java/com/changwu/引入tcp的黏包问题/MyClientInitializer.java" />
+        <option value="$PROJECT_DIR$/lawyer-lover-zuul/src/main/java/com/changwu/引入tcp的黏包问题/asd.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="lawyer-lover" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="lawyer-lover" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="391" />
+    <option name="y" value="96" />
+    <option name="width" value="1551" />
+    <option name="height" value="839" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="lawyer-lover-consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="lawyer-lover-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="lawyer-lover-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="lawyer-lover-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="lawyer-lover-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="lawyer-lover-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="changwu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="lawyer-lover-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="lawyer-lover-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="lawyer-lover-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="lawyer-lover-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="lawyer-lover-main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="lawyer-lover-main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="lawyer-lover-main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="lawyer-lover-main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="lawyer-lover-main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="lawyer-lover-main" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="lawyer-lover-zuul" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="lawyer-lover-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="lawyer-lover-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="lawyer-lover-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="lawyer-lover-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="lawyer-lover-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="changwu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="lawyer-lover-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="changwu" type="462c0819:PsiDirectoryNode" />
+              <item name="fillter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="lawyer-lover-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="changwu" type="462c0819:PsiDirectoryNode" />
+              <item name="ZuulApp" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:4.1.15.Final" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:4.1.15.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-4.1.15.Final.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:4.1.15.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-4.1.15.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:4.1.15.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-4.1.15.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:4.1.15.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-4.1.15.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="channel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:4.1.15.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-4.1.15.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="channel" type="462c0819:PsiDirectoryNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:4.1.15.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-4.1.15.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="channel" type="462c0819:PsiDirectoryNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
+              <item name="AbstractNioChannel" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:4.1.15.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-4.1.15.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="channel" type="462c0819:PsiDirectoryNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
+              <item name="NioEventLoop" type="1a9f42e2:ClassTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/EEProject/lawyer-lover/lawyer-lover-consumer/src/main/java/com/changwu/config/ConfigProperty.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586308145502" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\EEProject\lawyer-lover\lawyer-lover-eureka\src\main\java" />
+      <recent name="D:\EEProject\lawyer-lover\lawyer-lover-eureka\src\main\resources" />
+      <recent name="D:\EEProject\lawyer-lover" />
+      <recent name="D:\EEProject\lawyer-lover\lawyer-lover-main\target\classes" />
+      <recent name="D:\EEProject\lawyer-lover\lawyer-lover-main\target" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.changwu" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.changwu.repository" />
+      <recent name="com.changwu.entity" />
+      <recent name="com.changwu" />
+      <recent name="com.changwu.utils" />
+      <recent name="com.changwu.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\EEProject\lawyer-lover\lawyer-lover-zuul\src\main\java\com\changwu" />
+      <recent name="D:\EEProject\lawyer-lover\lawyer-lover-cosumertwo\src\main\java\com\changwu" />
+      <recent name="D:\EEProject\lawyer-lover\lawyer-lover-consumer\src\main\java\com\changwu" />
+      <recent name="D:\EEProject\lawyer-lover\lawyer-lover-cosumertwo\src\main\resources" />
+      <recent name="D:\EEProject\lawyer-lover\lawyer-lover-cosumertwo\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.114718616" />
+  </component>
+  <component name="RunManager" selected="Application.MyClient">
+    <configuration name="MyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.changwu.引入tcp的黏包问题.MyClient" />
+      <module name="lawyer-lover-zuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changwu.引入tcp的黏包问题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.changwu.引入tcp的黏包问题.MyServer" />
+      <module name="lawyer-lover-zuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changwu.引入tcp的黏包问题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lawyer-lover-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changwu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changwu.ConsumerApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lawyer-lover-cosumertwo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changwu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changwu.ConsumerApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApp (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lawyer-lover-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changwu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changwu.EurekaApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lawyer-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changwu.EurekaApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lawyer-lover-main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changwu.MainApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lawyer-lover-zuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changwu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changwu.ZuulApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaApp" />
+      <item itemvalue="Spring Boot.MainApp" />
+      <item itemvalue="Spring Boot.ZuulApp" />
+      <item itemvalue="Spring Boot.ConsumerApp" />
+      <item itemvalue="Spring Boot.EurekaApp (1)" />
+      <item itemvalue="Application.MyServer" />
+      <item itemvalue="Application.MyClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyClient" />
+        <item itemvalue="Application.MyServer" />
+        <item itemvalue="Spring Boot.ZuulApp" />
+        <item itemvalue="Spring Boot.EurekaApp (1)" />
+        <item itemvalue="Spring Boot.ConsumerApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14afcdaf-3cd0-4e7d-ad51-f6c43cdadadd" name="Default Changelist" comment="" />
+      <created>1573006363294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573006363294</updated>
+      <workItem from="1573006367999" duration="34309000" />
+      <workItem from="1573114399955" duration="59000" />
+      <workItem from="1573114916752" duration="7907000" />
+      <workItem from="1573215743620" duration="733000" />
+      <workItem from="1573272110929" duration="13283000" />
+      <workItem from="1573440307552" duration="82000" />
+      <workItem from="1573440486099" duration="26951000" />
+      <workItem from="1573546090385" duration="14763000" />
+      <workItem from="1573606277221" duration="1219000" />
+      <workItem from="1573639990736" duration="659000" />
+      <workItem from="1573731315029" duration="1197000" />
+      <workItem from="1573791259575" duration="23000" />
+      <workItem from="1573903308371" duration="1888000" />
+      <workItem from="1573915943346" duration="531000" />
+      <workItem from="1573952866710" duration="1026000" />
+      <workItem from="1574157360495" duration="841000" />
+      <workItem from="1574837076980" duration="47000" />
+      <workItem from="1574857824642" duration="5068000" />
+      <workItem from="1574928480451" duration="20000" />
+      <workItem from="1574944532284" duration="659000" />
+      <workItem from="1575032838002" duration="6186000" />
+      <workItem from="1575039871805" duration="375000" />
+      <workItem from="1575074668560" duration="26531000" />
+      <workItem from="1575163948969" duration="30566000" />
+      <workItem from="1575246463107" duration="5367000" />
+      <workItem from="1575263148661" duration="3773000" />
+      <workItem from="1575355205989" duration="7766000" />
+      <workItem from="1575369035046" duration="5230000" />
+      <workItem from="1575377655872" duration="6019000" />
+      <workItem from="1575419905397" duration="7539000" />
+      <workItem from="1575433656107" duration="11342000" />
+      <workItem from="1575555612485" duration="8000" />
+      <workItem from="1575869800002" duration="1818000" />
+      <workItem from="1576123077750" duration="1275000" />
+      <workItem from="1577497278234" duration="499000" />
+      <workItem from="1577785432798" duration="18000" />
+      <workItem from="1581391097286" duration="2107000" />
+      <workItem from="1581652244770" duration="10000" />
+      <workItem from="1583835076904" duration="4234000" />
+      <workItem from="1583854749902" duration="692000" />
+      <workItem from="1586185388992" duration="47000" />
+      <workItem from="1586298104298" duration="1981000" />
+    </task>
+    <task id="LOCAL-00001" summary="服务注册中心">
+      <created>1575376622029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575376622029</updated>
+    </task>
+    <task id="LOCAL-00002" summary="服务注册中心">
+      <created>1575377400807</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575377400807</updated>
+    </task>
+    <task id="LOCAL-00003" summary="服务注册中心">
+      <created>1575378611472</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575378611472</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge branch 'master' of https://gitee.com/zhuchangwu/Lawyer-lover&#10;&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit.">
+      <created>1575378783019</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575378783019</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CrimeTest_add - 2019.12.01 at 12h 47m 13s.xml">
+      <configuration name="CrimeTest.add" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test - 2019.12.01 at 14h 24m 33s.xml">
+      <configuration name="Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test - 2019.12.01 at 14h 26m 01s.xml">
+      <configuration name="Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test - 2019.12.01 at 14h 29m 36s.xml">
+      <configuration name="Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test - 2019.12.01 at 14h 32m 23s.xml">
+      <configuration name="Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_chooseIp - 2019.12.01 at 14h 49m 30s.xml">
+      <configuration name="Test.chooseIp" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test - 2019.12.01 at 14h 50m 07s.xml">
+      <configuration name="Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test - 2019.12.01 at 14h 58m 18s.xml">
+      <configuration name="Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test - 2019.12.01 at 14h 59m 47s.xml">
+      <configuration name="Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test - 2019.12.01 at 20h 04m 59s.xml">
+      <configuration name="Test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="234648000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865592" visible="true" weight="0.17537314" />
+      <window_info id="Structure" order="1" sideWeight="0.5013441" side_tool="true" weight="0.21588486" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5010846" side_tool="true" weight="0.19829424" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.14893617" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.039039038" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.15509762" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946696" weight="0.36807817" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.38937092" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.20304017" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" weight="0.18132465" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" weight="0.4397394" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.16151386" />
+      <window_info anchor="right" id="Database" order="6" weight="0.15298508" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.18017058" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.329718" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run Dashboard" order="7" weight="0.30043384" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.4197397" />
+      <window_info active="true" anchor="bottom" id="Debug" order="11" visible="true" weight="0.52386117" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.09594883" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Bean Validation" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="服务注册中心" />
+    <MESSAGE value="Merge branch 'master' of https://gitee.com/zhuchangwu/Lawyer-lover&#10;&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://gitee.com/zhuchangwu/Lawyer-lover&#10;&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/executor/MySimHash.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/executor/MySimHash.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/executor/MySimHash.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.15.Final/netty-all-4.1.15.Final-sources.jar!/io/netty/channel/nio/NioEventLoop.java</url>
+          <line>785</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.15.Final/netty-all-4.1.15.Final-sources.jar!/io/netty/channel/nio/NioEventLoop.java</url>
+          <line>778</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.15.Final/netty-all-4.1.15.Final-sources.jar!/io/netty/channel/nio/NioEventLoop.java</url>
+          <line>746</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>currentTimeNanos</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>TimeUnit.MILLISECONDS.toNanos(timeoutMillis)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>search</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>strSimHash1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>strSimHash</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>mySimHash1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>termList</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ip</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>questionListLikeThis</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/entity/CaseDoc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JavaJDK/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37149">
+          <caret line="1341" column="16" selection-start-line="1341" selection-start-column="16" selection-end-line="1341" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/executor/MySimHash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/dto/PyDeferredTaskDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/executor/ThriftClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/thrift/MyExcetion.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-eureka/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-cosumertwo/src/main/java/com/changwu/ConsumerApp.java" />
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-cosumertwo/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-cosumertwo/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/lawyer-eureka/README.md" />
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/config/MainConfig.java" />
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-main/crime.json" />
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-zuul/src/main/java/com/changwu/config/FeignConfig.java" />
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-main/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-zuul/src/main/java/com/changwu/引入tcp的黏包问题/MyServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="27" selection-start-line="26" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-main/src/main/java/com/changwu/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-zuul/src/main/java/com/changwu/引入tcp的黏包问题/asd.java" />
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1131">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/ConsumerApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-zuul/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/config/CorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/config/ConfigProperty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/config/FeignConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/executor/ThreadPertaskExecutorStarter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-main/src/main/java/com/changwu/config/FeignConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-eureka/src/main/java/com/changwu/EurekaApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/controller/AnalyserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/service/AnalyserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="37" column="25" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-eureka/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-consumer/src/main/java/com/changwu/mainClient/QuestionClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1334">
+          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-eureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.15.Final/netty-all-4.1.15.Final-sources.jar!/io/netty/channel/nio/NioEventLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15254">
+          <caret line="597" column="17" selection-start-line="597" selection-start-column="17" selection-end-line="597" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.15.Final/netty-all-4.1.15.Final.jar!/io/netty/channel/nio/NioEventLoop.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10759">
+          <caret line="422" column="17" selection-start-line="422" selection-start-column="17" selection-end-line="422" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.15.Final/netty-all-4.1.15.Final-sources.jar!/io/netty/channel/nio/AbstractNioChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-zuul/src/main/java/com/changwu/引入tcp的黏包问题/MyServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-main/src/main/java/com/changwu/controller/QuestionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-main/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-main/src/main/java/com/changwu/service/QuestionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.0.2.RELEASE/spring-cloud-netflix-zuul-2.0.2.RELEASE.jar!/org/springframework/cloud/netflix/zuul/EnableZuulProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-main/src/main/java/com/changwu/doc/Crime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-main/src/main/java/com/changwu/doc/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-zuul/src/main/java/com/changwu/引入tcp的黏包问题/MyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-zuul/src/main/java/com/changwu/引入tcp的黏包问题/MyClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-zuul/src/main/java/com/changwu/引入tcp的黏包问题/MyClientInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-zuul/src/main/java/com/changwu/引入tcp的黏包问题/MyServerInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-zuul/src/main/java/com/changwu/ZuulApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lawyer-lover-zuul/src/main/java/com/changwu/fillter/WebManagerFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="method#getIpAddr#0;class#WebManagerFilter#0" />
+            <element signature="method#resultError#0;class#WebManagerFilter#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Bundled Protobuf Distribution</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>lawyer-lover</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

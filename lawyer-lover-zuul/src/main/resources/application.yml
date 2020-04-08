@@ -1,0 +1,36 @@
+server:
+  port: 10010
+spring:
+  application:
+    name: app-changwu-zuul
+# eureka 服务注册
+eureka:
+  client:
+    #service-url:
+    serviceUrl:
+      defaultZone: http://localhost:10086/eureka/
+# 网关配置反向代理
+zuul:
+  routes:
+    api-a:
+      path: /api-consumer/**
+      serviceId: lawer-lover-consumer
+  host:
+    socket-timeout-millis: 200000
+    connect-timeout-millis: 200000
+
+#ribbon:
+#  ReadTimeout: 190000
+#  ConnectTimeout: 190000
+
+
+hystrix:
+  command:
+    default:  #default全局有效，service id指定应用有效
+      execution:
+        timeout:
+          enabled: true #如果enabled设置为false，则请求超时交给ribbon控制,为true,则超时作为熔断根据
+        isolation:
+          thread:
+            timeoutInMilliseconds: 10000 #断路器超时时间，默认1000ms
+

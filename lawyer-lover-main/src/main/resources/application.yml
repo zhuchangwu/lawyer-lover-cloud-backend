@@ -1,0 +1,14 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: lawer-lover-main
+  data:
+    elasticsearch:
+      cluster-name: elasticsearch
+      cluster-nodes: 139.9.95.136:9300
+eureka:
+  client:
+    #service-url:
+    serviceUrl:
+      defaultZone: http://localhost:10086/eureka/

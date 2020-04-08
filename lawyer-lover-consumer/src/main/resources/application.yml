@@ -1,0 +1,48 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: lawer-lover-consumer
+  data:
+    elasticsearch:
+      cluster-name: elasticsearch
+      cluster-nodes: 139.9.95.136:9300
+eureka:
+  client:
+    #service-url:
+     serviceUrl:
+      defaultZone: http://localhost:10086/eureka/
+  # 发布到线上时,模块之间可以访问
+  #instance:
+    #prefer-ip-address: true
+    #instance-id: 服务的消费者-one
+
+# 开启熔断保护
+feign:
+  client:
+    config:
+      default:
+        # 这个值调大一点,和py进行RPC通信平均9s左右完成通信
+        connectTimeout: 15000
+        readTimeout: 15000
+hystrix:
+  command:
+    default:  #default全局有效，service id指定应用有效
+      execution:
+        timeout:
+          enabled: true #如果enabled设置为false，则请求超时交给ribbon控制,为true,则超时作为熔断根据
+        isolation:
+          thread:
+            timeoutInMilliseconds: 19000 #断路器超时时间，默认1000ms
+ribbon:
+  ReadTimeout: 190000
+  ConnectTimeout: 190000
+
+# Ip地址
+changwu:
+  ips:
+   - ip: 139.9.95.136
+    #- ip: localhost
+     port: 9998
+
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lawyer-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lawyer-lover-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lawyer-lover-cosumertwo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lawyer-lover-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lawyer-lover-main" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lawyer-lover-zuul" charset="UTF-8" />
+  </component>
+</project>
