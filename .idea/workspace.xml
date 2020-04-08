@@ -36,7 +36,7 @@
     <session id="-24045633">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="41" />
+          <entry key="project.closed" value="42" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="5" />
           <entry key="project.open.time.11" value="3" />
@@ -164,7 +164,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lawyer-lover-zuul/src/main/java/com/changwu/fillter/WebManagerFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
+            <state relative-caret-position="290">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="method#getIpAddr#0;class#WebManagerFilter#0" />
@@ -247,7 +247,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="232">
-              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -265,7 +265,7 @@
         <entry file="file://$PROJECT_DIR$/lawyer-lover-main/src/main/java/com/changwu/doc/Question.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="400">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -483,7 +483,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="391" />
     <option name="y" value="96" />
     <option name="width" value="1551" />
@@ -525,65 +525,6 @@
             <path>
               <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
               <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
-              <item name="lawyer-lover-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
-              <item name="lawyer-lover-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
-              <item name="lawyer-lover-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="changwu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
-              <item name="lawyer-lover-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
-              <item name="lawyer-lover-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
-              <item name="lawyer-lover-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
-              <item name="lawyer-lover-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
               <item name="lawyer-lover-main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -615,12 +556,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lawyer-lover" type="462c0819:PsiDirectoryNode" />
-              <item name="lawyer-lover-main" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lawyer-lover" type="b2602c69:ProjectViewProjectNode" />
@@ -793,7 +728,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/EEProject/lawyer-lover/lawyer-lover-consumer/src/main/java/com/changwu/config/ConfigProperty.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586308145502" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586308198997" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -1009,7 +944,7 @@
       <workItem from="1583835076904" duration="4234000" />
       <workItem from="1583854749902" duration="692000" />
       <workItem from="1586185388992" duration="47000" />
-      <workItem from="1586298104298" duration="1981000" />
+      <workItem from="1586298104298" duration="2630000" />
     </task>
     <task id="LOCAL-00001" summary="服务注册中心">
       <created>1575376622029</created>
@@ -1075,7 +1010,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="234648000" />
+    <option name="totallyTimeSpent" value="235297000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1087,7 +1022,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865592" visible="true" weight="0.17537314" />
       <window_info id="Structure" order="1" sideWeight="0.5013441" side_tool="true" weight="0.21588486" />
@@ -1099,7 +1034,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.14893617" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.47122693" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.039039038" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1549,7 +1484,7 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1563,7 +1498,7 @@
     <entry file="file://$PROJECT_DIR$/lawyer-lover-main/src/main/java/com/changwu/doc/Question.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
@@ -1609,7 +1544,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lawyer-lover-zuul/src/main/java/com/changwu/fillter/WebManagerFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
+        <state relative-caret-position="290">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="method#getIpAddr#0;class#WebManagerFilter#0" />
