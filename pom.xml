@@ -48,7 +48,7 @@
             <dependency>
                 <groupId>commons-collections</groupId>
                 <artifactId>commons-collections</artifactId>
-                <version>3.2</version>
+                <version>3.2.2</version>
             </dependency>
             <!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
         </dependencies>
